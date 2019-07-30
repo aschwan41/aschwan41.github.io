@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenemelnyk.ca" resolutions="1x" timestamp="1564435216545">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eugenemelnyk.ca" resolutions="1x" timestamp="1564525642747">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4190861898" ref="index"/>
+    <file name="index.css" crc="4022740785" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,10 +10,9 @@
     <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.watch.js" crc="51536988" ref="index"/>
     <file name="require.js" crc="7928878" ref="index"/>
-    <file name="webpro.js" crc="4059564322" ref="index"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
-  <file name="index.html" crc="192275299" seo="true" mt="1564434285712" redirect="true"/>
+  <folder name="images">
+    <file name="u333-7.png" crc="4150849672" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3922300832" seo="true" mt="1564525267988" redirect="true"/>
 </manifest>
